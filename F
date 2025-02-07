@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="light.css" type="text/css" media="all" />
+  <title>HTML</title>
+  
+  <!-- HTML -->
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <form class="con" action="" method="get" accept-charset="utf-8">
+    <h3>
+      প্রজেক্ট সিম্যাপ বাস্তবায়নে আপনার সম্মতি
+    </h3>
+    <label for="">আপনার নাম<span>*</span></label>
+    <input type="text" name="" id="" placeholder="আপনার নাম লিখুন" value="" />
+    <br>
+    <label for="">ফোন নম্বর<span>*</span></label>
+    <input type="number" name="" id="" placeholder="01*********" value="" />
+   <br>
+    <label for="">ইমেইল অ্যাড্রেস<span>*</span></label>
+    <input type="email" name="" id="" placeholder="example@gmail.com" value="" />
+    <br>
+    <label for="">মন্তব্য</label>
+    <br>
+    <textarea name="" placeholder="যদি আপনার কোনো মন্তব্য থাকে লিখুন..." id= rows="8" cols="20"></textarea>
+    <br>
+    <input type="button" name="স্বাক্ষর করুন" id="" value="স্বাক্ষর করুন" />
+    
+    <hr>
+   
+  
+  </form>
+  <script src="main.js"></script>
+</body>
+</html>
