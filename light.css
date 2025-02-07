@@ -1,0 +1,75 @@
+ *{
+        margin: 0;
+        padding:0;
+        box-sizing: border-box;
+      }
+      .con{
+        margin:10px;
+        padding:10px;
+      }
+      input{
+        padding:10px;
+        border-radius:4px;
+        border:1px solid #ccc;
+        box-shadow: rgba(14, 63, 126, 0.06) 0px 0px 0px 1px, rgba(42, 51, 70, 0.03) 0px 1px 1px -0.5px, rgba(42, 51, 70, 0.04) 0px 2px 2px -1px, rgba(42, 51, 70, 0.04) 0px 3px 3px -1.5px, rgba(42, 51, 70, 0.03) 0px 5px 5px -2.5px, rgba(42, 51, 70, 0.03) 0px 10px 10px -5px, rgba(42, 51, 70, 0.03) 0px 24px 24px -8px;
+       
+        font-size: 18px;
+        margin-left:10px;
+        margin-right:10px;
+       
+        transition: border-color 0.3s;
+        outline: none;
+      }
+input:button {
+  padding:5px;
+  background: dodgerblue;
+}
+table{
+  border:1px solid red;
+  border-spacing: 0;
+  
+}
+th,td {
+  padding:10px;
+}
+th{
+  font-weight: bold;
+}
+ul{
+  list-style-type: none;
+  
+}
+li{
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  margin:10px;
+  padding:10px;
+  border-radius:2px;
+}
+a{
+  text-decoration: none;
+  color: dodgerblue;
+  
+}
+p{
+  padding:10px;
+  margin:10px;
+}
+h3{
+  border-left:3px solid dodgerblue;
+  padding-left:10px;
+  margin:10px;
+  font-size: 25px;
+  
+}
+.card{
+  box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 2px;
+  margin:10px;
+  padding:10px;
+  border-radius:3px;
+}
+marquee{
+  border-bottom:1px solid dodgerblue;
+  border-top:1px solid dodgerblue;
+  padding:10px;
+  font-size:20px;
+}
